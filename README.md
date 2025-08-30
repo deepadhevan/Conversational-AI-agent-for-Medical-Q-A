@@ -38,5 +38,11 @@ This project showcases a deployable pipeline featuring:
 - SQLite database with pre-indexed medical passages and embeddings (`data/med_corpus.db`). Example dataset or indexing code should be prepared separately.
 - Optional: GPU for transformer models in retrieval
 
+## Installation & Running
+- pip install -r requirements.txt
+- python run.py
+- http://localhost:8000 
+
+
 
 
